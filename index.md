@@ -4,3 +4,5 @@
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
+
+![Fotografía de la galaxia de Andrómeda](https://upload.wikimedia.org/wikipedia/commons/5/57/M31bobo.jpg)
