@@ -34,3 +34,8 @@ def Pobacion(n, e, Z, p):
     )
     return N
 ```
+
+## Lista de tareas
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
